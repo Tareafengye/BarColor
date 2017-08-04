@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TararDemo</string>
+    <string name="bar_status_title_color">颜色</string>
+    <string name="bar_status_title_alpha">背景</string>
+    <string name="bar_status_title_image_view">图片</string>
+    <string name="bar_status_set_transparent">透明</string>
+    <string name="bar_status_random_color">随机颜色</string>
+    <string name="bar_status_tara">TaraActivity</string>
+</resources>
